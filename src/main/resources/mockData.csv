@@ -1,0 +1,51 @@
+id,guid,productCategory,price,quantity
+1,39fa49dc-e40e-4f3b-aa83-1fdf0a5b8169,Cookies - Amaretto,$48.23,7
+2,2c28f305-6b1d-424c-9a49-1946fb87ed59,Basil - Fresh,$49.78,24
+3,73f817e5-dc43-4965-ba77-db7e97a7bd14,Cup - Paper 10oz 92959,$15.22,25
+4,f09c259a-c79f-412d-965f-78117307fee4,Pasta - Ravioli,$2.55,1
+5,91c21260-8e44-423e-aab6-200fbe1cecd2,Miso Paste White,$1.42,11
+6,9a7d67f8-27f4-40c9-8606-ed76df461b52,Wine - Red Black Opal Shiraz,$3.87,15
+7,751d57ac-62e8-4744-8235-fe6a043a8f0c,Flour - Whole Wheat,$3.34,8
+8,8823dd5d-54e4-4013-9460-4c6169469dbe,Lamb - Shanks,$9.52,7
+9,a92ca4d8-90df-466f-a622-49fd2aef5f58,Cheese - Victor Et Berthold,$1.46,11
+10,d1633c41-c9c7-4d7f-b9ce-9ada3f7e1019,Chocolate - Pistoles Lactee Milk,$26.62,12
+11,5efb8c6d-9854-42f7-a212-1860f0826430,Pate Pans Yellow,$25.58,22
+12,826993f4-6a71-4dbc-8130-0be6e512ddab,Pastry - Butterscotch Baked,$38.35,26
+13,05760eaa-3cf5-445e-bdb4-512f13d870ef,Crab - Dungeness Whole live,$12.35,26
+14,c6c0a405-f103-4f16-9c0d-7cf2aef97c12,Lemon Balm - Fresh,$14.22,7
+15,ff37888e-0303-4184-a7d0-1a6d087e75a2,Sobe - Berry Energy,$44.29,27
+16,ffc39ee6-6f05-4e70-b511-3da05cf345f6,Appetizer - Mango Chevre,$3.49,20
+17,9a5cbdb0-b17d-4351-bc70-946ecadeed93,Instant Coffee,$20.22,14
+18,55607922-d402-483e-8406-b2bf58cfb4af,Hog / Sausage Casing - Pork,$13.59,27
+19,02b42b3b-5d98-414b-90b3-02f36b8d7317,Fenngreek Seed,$36.26,27
+20,40958f8e-56f8-498a-babb-7292d96f9d66,Oil - Olive Extra Virgin,$19.73,27
+21,c58c8229-0c91-42fc-8afc-257b9c3621d2,Artichoke - Hearts Canned,$19.95,30
+22,27730e28-ef51-45f8-b439-3366b0f6e9a5,Shrimp - 16/20 Peeled Deviened,$8.32,21
+23,283aaa9a-da86-4703-a862-03a8b62039a4,Lamb - Shoulder,$17.84,23
+24,bd032024-7f49-4b5a-b30e-cf2a84c6c899,Sauce - Mint,$33.48,21
+25,05505220-0b27-4013-b7aa-8e39d2199736,Slt - Individual Portions,$49.59,2
+26,ae88a9ca-2b64-4bb4-b970-46745f55c120,Bandage - Flexible Neon,$44.61,29
+27,68cc1a4b-801a-417d-9d77-91ee4bc783cf,Tabasco Sauce,$46.54,2
+28,15808e6a-19a1-447c-9cca-671f3ef12ab6,Initation Crab Meat,$39.89,12
+29,615add50-acbc-469e-b4ff-9c6111f0cf05,Food Colouring - Blue,$30.58,17
+30,4c557156-87ad-47dd-bc0f-cbd75538f48d,Fond - Neutral,$23.49,22
+31,48c2d585-7026-485a-a143-5f40ca1b8862,Veal Inside - Provimi,$6.56,9
+32,8b67fa82-6030-48d5-b887-acd538f95ceb,Sugar - Icing,$25.74,16
+33,1955bc54-b78a-4a85-b482-21afb301273a,Kaffir Lime Leaves,$38.09,21
+34,34208ef3-3ee9-407a-b4d0-9919b65bcb98,Tomatoes - Hot House,$38.88,1
+35,4d265e5c-ec5a-435e-a3a9-e9f134be9f51,Tart - Lemon,$33.48,1
+36,e26d1f7a-99fc-486a-8bee-dfaebd3352c2,Lumpfish Black,$46.64,20
+37,8625e701-88f0-4ee7-a11b-4fc0abc1a6c6,Soup - Campbells Chili Veg,$29.77,30
+38,2a17f094-0541-4b81-b400-6d20c72b3776,Cookies - Englishbay Chochip,$17.36,29
+39,523672ed-2a00-46ad-8d6e-dbb75796c673,Avocado,$3.10,4
+40,a00d9f50-c9a1-4a1e-9851-dee91fd73b82,Cherries - Fresh,$13.31,6
+41,440d366f-c732-4af1-b296-c2e75948a6e2,Watercress,$1.27,23
+42,6ad3766b-f3d3-4ede-bb3c-ebb1b9c451a1,Chicken - Leg / Back Attach,$16.39,29
+43,1bf77fdf-050c-49e5-99cb-20964f3ad5ca,Carbonated Water - Orange,$10.33,5
+44,f9a9e790-f730-4a03-9a08-dfd7faca6092,Ginger - Crystalized,$0.67,11
+45,33cb845f-8ee6-4aa6-8228-cbbf2a02978a,Pernod,$37.00,9
+46,3557527c-6e31-490e-a2d3-ae4848d490d1,Soup - Cream Of Broccoli,$3.10,7
+47,404b4263-e052-4407-978b-2e3ac5951348,Muffin Hinge 117n,$6.35,28
+48,799736c3-82f3-49d4-b935-1b2fc44eb152,Wine - Casablanca Valley,$2.95,2
+49,0df38e14-a308-444c-8131-9d1924487758,Ecolab - Solid Fusion,$12.26,26
+50,90efd17a-dfce-438d-8e29-51b6622045ec,Raisin - Golden,$6.33,16
